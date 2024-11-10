@@ -1,4 +1,4 @@
-# Divar Scraper
+# Divar Scrapper
 
 This project is a web scraper for extracting the latest ads from the Divar website. It allows users to specify a city and a category, then retrieves and saves the latest 300 ads from the specified category.
 
